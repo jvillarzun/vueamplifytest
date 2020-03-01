@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vueamplifyproject
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vueamplifytest
+>>>>>>> 949389b97c3601be1c18131d7d0318dd47d62ace

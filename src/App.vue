@@ -6,12 +6,14 @@
 </template>
 
 <script>
+import { components } from 'aws-amplify-vue'
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    ...components
   }
 }
 </script>
